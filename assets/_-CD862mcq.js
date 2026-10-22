@@ -1,0 +1,1 @@
+import{g as e,n as t,t as n}from"./FloatSheetsPage-wDOh5frd.js";import{t as r}from"./_-CuC-Ao6Q.js";var i=e();function a(){let{_splat:e}=r.useParams(),a=t(`/`+(e??``));return(0,i.jsx)(n,{page:a})}export{a as component};

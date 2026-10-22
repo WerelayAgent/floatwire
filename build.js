@@ -18,7 +18,7 @@ const config = {
       handle: 'filesystem'
     },
     {
-      src: '^/(?!assets/|favicon\\.png|og-image\\.jpg|robots\\.txt|manifest\\.json).*$',
+      src: '^/(?!assets/|favicon\\.png|og-image\\.jpg|robots\\.txt|manifest\\.json|styles\\.css|fonts\\.css|app\\.js).*$',
       dest: '/index.html'
     }
   ]
@@ -36,6 +36,9 @@ const items = [
   'robots.txt',
   'favicon.png',
   'og-image.jpg',
+  'styles.css',
+  'fonts.css',
+  'app.js',
   'assets'
 ];
 
