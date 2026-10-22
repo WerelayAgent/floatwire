@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://floatwire.app/sitemap.xml

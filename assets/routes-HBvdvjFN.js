@@ -1,0 +1,1 @@
+import{g as e,t}from"./FloatwirePage-wDOh5frd.js";import{t as n}from"./routes-DHTJlIfL.js";var r=e();function i(){return(0,r.jsx)(t,{page:n})}export{i as component};

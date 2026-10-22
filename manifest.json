@@ -1,0 +1,20 @@
+{
+  "short_name": "Floatwire",
+  "name": "Floatwire — Micro-cap stock perps on Solana",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/assets/floatwire-mark.png",
+      "type": "image/png",
+      "sizes": "1254x1254"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0e17",
+  "theme_color": "#0e1a2f",
+  "display": "standalone"
+}

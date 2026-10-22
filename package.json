@@ -1,0 +1,24 @@
+{
+  "name": "floatwire",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Floatwire ($FWIR) — Micro-cap stock perpetuals powered by attested multi-source prices, adaptive risk engine, and pool-versus-trader execution on Solana.",
+  "scripts": {
+    "build": "node build.js",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "floatwire",
+    "fwir",
+    "perpetuals",
+    "solana",
+    "oracle",
+    "micro-cap",
+    "equities",
+    "derivatives",
+    "risk-engine",
+    "pool-versus-trader"
+  ],
+  "author": "Floatwire Protocol",
+  "license": "MIT"
+}
